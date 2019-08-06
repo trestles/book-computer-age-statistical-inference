@@ -1,3 +1,26 @@
+#### questions
+- what is p? Probability? p59 
+
+
+#### terms
+- uninformative priors p35
+- emperical bayes p36
+- the lasso p36
+- maximum likelihood estimation p35, p38
+- independent and identically distributed p39
+- univariate densities p56
+- probability density function p57
+- probability transformations p57
+- mean p57
+- covariance p57
+- multivariate normal distribution (MVN) p57
+- classical multivariate analysis p57
+- expectation vector p59
+- normal prior distribution p59
+- posterior distribution p59
+- objective Bayes inference p233
+- parameter p234
+
 ## Part I Classic Statistical Inference 
 
 #### 1 Algorithms and Inference
@@ -24,7 +47,13 @@
   - 4.4 Permutation and Randomization p49
   - 4.5 Notes and Details p51
 
-#### 5 Parametric Models and Exponential Families 
+#### 5 Parametric Models and Exponential Families
+- 5.1 Univariate Families p54
+- 5.2 The Multivariate Uniform Distribution p55
+- 5.3 Fisher's Information Bound for Multiparameter Families p59
+- 5.4 The Multinomial Distribution p61
+- 5.5 Exponential Families p64
+- 5.6 Notes and Details p69
 
 ## Part II Early Computer-Age Models
 #### 6 Emperical Bayes 
